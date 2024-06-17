@@ -4,8 +4,8 @@ Introduction: GamеCo seeks to boost its 2017 marketing strategies by analyzing 
 Key Questions
 
 <br>● Are certain types of games more popular than others?<br/>
-<br>● Have any games decreased or increased in popularity over time?<br/>
-<br>● How have their sales figures varied between geographic regions over time??<br/>
+● Have any games decreased or increased in popularity over time?<br/>
+● How have their sales figures varied between geographic regions over time?<br/>
 
 
 Context: As a data analyst, within this project I need to understand problems, apply relevant analyses, confirm hypotheses with data, and communicate insights effectively. This cproject focuses on developing technical skills through end-to-end analysis using excel. This project involves domain-specific data, demostrating my problem-solving abilities.
