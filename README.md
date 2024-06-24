@@ -1,4 +1,4 @@
-<h2 id="Insta Cart">Instacart</h2>
+<h2 id="IGameco">GameCo</h2>
 
 GamеCo seeks to boost its 2017 marketing strategies by analyzing global video game sales data through time series analysis. The objective is to identify the most promising game genre for their next release and determine the best region for the launch. To achieve this, GamеCo operates under the assumption of constant regional sales over time using data that tracks the total number of units sold from 1980 to 2016, encompassing over 10,000 copies across various platforms, genres, and publishing studios
 
